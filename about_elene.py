@@ -2,10 +2,9 @@ from textwrap import indent, dedent
 
 DATA = {
     "name": "Elene Pitskhelauri",
-    "tagline": "Computer Engineering Student • Erasmus Exchange Student (Linnaeus University)",
+    "tagline": "Computer Engineering Student at the University of Georgia • Erasmus Exchange Student for a year at the Linnaeus University",
     "location": "Tbilisi, Georgia",
     "email": "eleneficxelauri01@gmail.com",
-    "phone": "+995 599 06 80 79",
     "links": {
         "LinkedIn": "https://www.linkedin.com/in/elene-pitskhelauri-a287792bb/",
         "GitHub": "https://github.com/ElenePitskhelauri"  # ← update if different
